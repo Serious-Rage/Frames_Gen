@@ -1,0 +1,36 @@
+body {
+	background-color: #2e2e2e;
+	background-repeat: repeat;
+	background-attachment: fixed;
+	padding: 20px 20px 20px 20px;
+}
+h,
+h1,
+h2,
+p {
+	text-align: center;
+	color: red;
+	box-shadow: 0px 0px 0px red
+}
+.mainbutton {
+	position: relative;
+	top: 150;
+	width: 168px;
+	height: 48px;
+	background-color: black;
+	color: white;
+	margin-top: 20px;
+	margin-bottom: 20px;
+	margin-right: 20px;
+	margin-left: 20px;
+	border: 2px solid;
+	border-radius: 15px;
+	box-shadow: 6px 6px 5px #888888;
+}
+input {
+	height: 28px;
+	font-size: 130%;
+	font-weight: bold;
+	background-color: #dc8e8f;
+	margin-right: 20px;
+}
